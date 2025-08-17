@@ -116,10 +116,3 @@ Click **“Load Demo Data”** for the selected department in the sidebar.
   Delete the `stores/` folder to rebuild from scratch.
 
 ---
-
-## 🔒 Optional Next Steps
-
-- Authentication (Streamlit secrets / OAuth)
-- Connectors: SharePoint, SAP B1, Qlik
-- Swap CSV logs for a database + richer analytics
-- Add screenshot images to this README
